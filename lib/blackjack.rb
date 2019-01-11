@@ -1,9 +1,9 @@
 def welcome
-  puts "HELLO!"
+  puts "Welcome to the Blackjack Table".
 end
 
 def deal_card
-  puts "1-21"
+  puts "1-11"
 end
 
 def display_card_total
@@ -15,19 +15,19 @@ def prompt_user
 end
 
 def get_user_input
-  puts "user 1"
+  gets
 end
 
 def end_game
-  puts "oh yeah!"
+  puts "Sorry, you hit #{card_total}. Thanks for playing!"
 end
 
 def initial_round
-  puts "1"
+  puts #display_card_total
 end
 
 def hit?
-  puts "5"
+  puts #prompt_user
 end
 
 def invalid_command
@@ -39,5 +39,5 @@ end
 #####################################################
 
 def runner
-  puts "Welcome to the Blackjack Table"
+  puts #runner
 end
