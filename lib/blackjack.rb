@@ -39,5 +39,5 @@ end
 #####################################################
 
 def runner
-  puts "love"
+  puts "Welcome to the blackjack table"
 end
