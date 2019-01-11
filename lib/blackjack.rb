@@ -3,11 +3,11 @@ def welcome
 end
 
 def deal_card
-  puts "One please"
+  puts "1-21"
 end
 
 def display_card_total
-  puts "11"
+  puts "1"
 end
 
 def prompt_user
