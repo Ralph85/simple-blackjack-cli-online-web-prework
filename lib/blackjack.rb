@@ -1,37 +1,37 @@
 def welcome
-  # code #welcome here
+  puts "HELLO!"
 end
 
 def deal_card
-  # code #deal_card here
+  puts "One please"
 end
 
 def display_card_total
-  # code #display_card_total here
+  puts "11"
 end
 
 def prompt_user
-  # code #prompt_user here
+  puts "11"
 end
 
 def get_user_input
-  # code #get_user_input here
+  puts "user 1"
 end
 
 def end_game
-  # code #end_game here
+  puts "oh yeah!"
 end
 
 def initial_round
-  # code #initial_round here
+  puts "1"
 end
 
 def hit?
-  # code hit? here
+  puts "5"
 end
 
 def invalid_command
-  # code invalid_command here
+  puts "25"
 end
 
 #####################################################
@@ -41,4 +41,3 @@ end
 def runner
   # code runner here
 end
-    
